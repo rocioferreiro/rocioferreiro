@@ -6,7 +6,7 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rocio-ferreiro)
 
-![Rochis's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rocioferreiro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocioferreiro)
 
 <!--
 **rocioferreiro/rocioferreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
