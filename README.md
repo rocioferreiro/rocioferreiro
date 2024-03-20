@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Rocio 👋
+
+![Rochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocioferreiro&show_icons=true&theme=dracula)
+
+🔭 I’m currently working on [R3al Blocks](https://www.r3al.io)
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rocio-ferreiro)
+
+![Rochis's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rocioferreiro)
 
 <!--
 **rocioferreiro/rocioferreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
