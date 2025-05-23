@@ -3,6 +3,8 @@
 ![Rochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocioferreiro&show_icons=true&theme=dracula)
 -->
 
+My Portfolio: [rocioferreiro.com](https://www.rocioferreiro.com)
+
 🔭 I’m currently working on [R3al Blocks](https://www.r3al.io)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rocio-ferreiro)
